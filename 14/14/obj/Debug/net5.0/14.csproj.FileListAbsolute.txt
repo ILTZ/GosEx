@@ -1,0 +1,15 @@
+K:\Y4ebka\Госы\Задачи\14\14\bin\Debug\net5.0\14.exe
+K:\Y4ebka\Госы\Задачи\14\14\bin\Debug\net5.0\14.deps.json
+K:\Y4ebka\Госы\Задачи\14\14\bin\Debug\net5.0\14.runtimeconfig.json
+K:\Y4ebka\Госы\Задачи\14\14\bin\Debug\net5.0\14.runtimeconfig.dev.json
+K:\Y4ebka\Госы\Задачи\14\14\bin\Debug\net5.0\14.dll
+K:\Y4ebka\Госы\Задачи\14\14\bin\Debug\net5.0\ref\14.dll
+K:\Y4ebka\Госы\Задачи\14\14\bin\Debug\net5.0\14.pdb
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\14.GeneratedMSBuildEditorConfig.editorconfig
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\14.AssemblyInfoInputs.cache
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\14.AssemblyInfo.cs
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\14.csproj.CoreCompileInputs.cache
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\14.dll
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\ref\14.dll
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\14.pdb
+K:\Y4ebka\Госы\Задачи\14\14\obj\Debug\net5.0\14.genruntimeconfig.cache
