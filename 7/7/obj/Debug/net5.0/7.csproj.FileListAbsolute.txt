@@ -1,0 +1,16 @@
+K:\Y4ebka\Госы\Задачи\7\7\bin\Debug\net5.0\7.exe
+K:\Y4ebka\Госы\Задачи\7\7\bin\Debug\net5.0\7.deps.json
+K:\Y4ebka\Госы\Задачи\7\7\bin\Debug\net5.0\7.runtimeconfig.json
+K:\Y4ebka\Госы\Задачи\7\7\bin\Debug\net5.0\7.runtimeconfig.dev.json
+K:\Y4ebka\Госы\Задачи\7\7\bin\Debug\net5.0\7.dll
+K:\Y4ebka\Госы\Задачи\7\7\bin\Debug\net5.0\ref\7.dll
+K:\Y4ebka\Госы\Задачи\7\7\bin\Debug\net5.0\7.pdb
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.csproj.AssemblyReference.cache
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.GeneratedMSBuildEditorConfig.editorconfig
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.AssemblyInfoInputs.cache
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.AssemblyInfo.cs
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.csproj.CoreCompileInputs.cache
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.dll
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\ref\7.dll
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.pdb
+K:\Y4ebka\Госы\Задачи\7\7\obj\Debug\net5.0\7.genruntimeconfig.cache
